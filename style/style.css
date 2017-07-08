@@ -1,0 +1,26 @@
+
+img{
+  width: 100%;
+}
+.marsPic{
+  min-height: 160px;
+  border-radius: 50%;
+}
+.wrapper{
+  min-height: 200px;
+}
+.center{
+  text-align: center;
+}
+button{
+  margin: 30px 0;
+  background: #94cec9;
+  padding: 10px 15px;
+  border: 0;
+}
+h2{
+  margin: 30px 0;
+}
+.logo{
+  width: 7%!important;
+}
